@@ -1,5 +1,5 @@
 def smile():
-    return "keep smiling"
+    return ":)"
 
 def frown():
     return "keep crying"
